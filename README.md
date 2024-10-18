@@ -41,3 +41,7 @@ EventLitez is a simple event listing website that allows users to create, view, 
 - **License**: States the licensing information for the project.
 
 You can replace `yourusername` in the clone command with your actual GitHub username. Let me know if you need any further modifications or additional sections!
+
+#output 
+
+![Screenshot 2024-10-18 191929](https://github.com/user-attachments/assets/26729d3b-9421-4489-8e99-69aca831f5db)
