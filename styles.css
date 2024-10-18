@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    background-image: url("pexels-sebastian-ervi-866902-1763075.jpg");
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: rgb(220, 174, 174);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-image: url("super-saiyan-blue-3840x2160-13993.jpg");
+}
+
+h1,
+h2 {
+    color: #a19090;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    color: white;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#event-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.message {
+    margin-top: 20px;
+    color: #28a745;
+    font-weight: bold;
+}
+
+
+/* .event-form {
+    margin: auto;
+    text-align: center;
+} */
